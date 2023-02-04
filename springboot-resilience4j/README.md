@@ -17,12 +17,13 @@ Suppose our contract with the airline’s service says that we can call their se
 For this project required dependencies
 # io.github.resilience4j
 
-Run the SpringbootResilience4j Application
+Run the SpringbootResilience4j Application.
 # Local Setup:
     Install Java 11
     Install Maven
-Clone the repo and run the below command in core
-    mvn clean install
+Clone the repo and run the below command.
+
+ mvn clean install
 
 To start the application: 
    Choose Any IDE (Intellij Idea,StS)
