@@ -1,0 +1,15 @@
+io\reflectoring\resilience4j\springboot\services\failures\RateLimitFailNTimes.class
+io\reflectoring\resilience4j\springboot\model\SearchResponse.class
+io\reflectoring\resilience4j\springboot\model\SearchRequest.class
+io\reflectoring\resilience4j\springboot\exceptions\FlightServiceBaseException.class
+io\reflectoring\resilience4j\springboot\RPMRateLimitedFlightSearchSearch.class
+io\reflectoring\resilience4j\springboot\services\failures\NoFailure.class
+io\reflectoring\resilience4j\springboot\model\Flight.class
+io\reflectoring\resilience4j\springboot\services\FlightSearchService.class
+io\reflectoring\resilience4j\springboot\services\failures\PotentialFailureCheckedException.class
+io\reflectoring\resilience4j\springboot\services\failures\PotentialFailure.class
+io\reflectoring\resilience4j\springboot\SpringbootResilience4jApplication.class
+io\reflectoring\resilience4j\springboot\exceptions\RateLimitExceededException.class
+io\reflectoring\resilience4j\springboot\RateLimiterExamplesRunner.class
+io\reflectoring\resilience4j\springboot\RateLimitingService.class
+io\reflectoring\resilience4j\springboot\services\failures\NoCheckedExceptionFailure.class
