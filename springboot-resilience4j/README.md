@@ -13,6 +13,7 @@ In production, we’d configure the RateLimiter based on our contract with the r
 
 # Basic Example
 Suppose our contract with the airline’s service says that we can call their search API at 2 rps (requests per second). 
+
 For this project required dependencies
 # io.github.resilience4j
 
